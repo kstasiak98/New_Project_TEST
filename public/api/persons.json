@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 1 ,
+    "firstName": "Max" ,
+    "lastName" : "Wazoski" ,
+    "email" : "m.wazoski@gmail.com" ,
+    "phone" : "555-111-555" ,
+    "birthDate" : "13-06-1990 "
+  }, {
+  "id" : 2 ,
+  "firstName": "Kara" ,
+  "lastName" : "Boska" ,
+  "email" : "k.boska@gmail.com" ,
+  "phone" : "655-098-989" ,
+  "birthDate" : "13-12-1993 "
+}, {
+  "id" : 3 ,
+  "firstName": "Admin" ,
+  "lastName" : "Strony" ,
+  "email" : "a.strony@gmail.com" ,
+  "phone" : "111-222-333" ,
+  "birthDate" : "06-06-1969 "
+}, {
+  "id" : 4 ,
+  "firstName": "Nowy" ,
+  "lastName" : "Klient" ,
+  "email" : "n.klient@gmail.com" ,
+  "phone" : "444-555-666" ,
+  "birthDate" : "11-11-1991 "
+}, {
+  "id" : 5 ,
+  "firstName": "Person" ,
+  "lastName" : "Person" ,
+  "email" : "p.person@gmail.com" ,
+  "phone" : "333-098-989" ,
+  "birthDate" : "11-11-1990 "
+}
+]
